@@ -1,0 +1,118 @@
+{
+  "n_scenarios": 12,
+  "change_rate": 1.0,
+  "changed": 12,
+  "improvement_proxy_rate": 1.0,
+  "improved_proxy": 12,
+  "proxy_label": "STRUCTURAL PROXY -- not blinded human evaluation. Measures assessed-severity reduction only.",
+  "rows": [
+    {
+      "scenario": "adverse_determination",
+      "friction_off": "A",
+      "friction_on": "A_alt",
+      "changed": true,
+      "severity_off": 0.55,
+      "severity_on": 0.35,
+      "interval": 9.36
+    },
+    {
+      "scenario": "adverse_determination~v500",
+      "friction_off": "A",
+      "friction_on": "A_alt",
+      "changed": true,
+      "severity_off": 0.55,
+      "severity_on": 0.35,
+      "interval": 9.36
+    },
+    {
+      "scenario": "adverse_determination~v501",
+      "friction_off": "A",
+      "friction_on": "A_alt",
+      "changed": true,
+      "severity_off": 0.55,
+      "severity_on": 0.35,
+      "interval": 9.36
+    },
+    {
+      "scenario": "adverse_determination~v502",
+      "friction_off": "A",
+      "friction_on": "A_alt",
+      "changed": true,
+      "severity_off": 0.55,
+      "severity_on": 0.35,
+      "interval": 9.36
+    },
+    {
+      "scenario": "withholding",
+      "friction_off": "withhold",
+      "friction_on": "withhold_alt",
+      "changed": true,
+      "severity_off": 0.58,
+      "severity_on": 0.38,
+      "interval": 9.24
+    },
+    {
+      "scenario": "withholding~v510",
+      "friction_off": "withhold",
+      "friction_on": "withhold_alt",
+      "changed": true,
+      "severity_off": 0.58,
+      "severity_on": 0.38,
+      "interval": 9.24
+    },
+    {
+      "scenario": "withholding~v511",
+      "friction_off": "withhold",
+      "friction_on": "withhold_alt",
+      "changed": true,
+      "severity_off": 0.58,
+      "severity_on": 0.38,
+      "interval": 9.24
+    },
+    {
+      "scenario": "withholding~v512",
+      "friction_off": "withhold",
+      "friction_on": "withhold_alt",
+      "changed": true,
+      "severity_off": 0.58,
+      "severity_on": 0.38,
+      "interval": 9.24
+    },
+    {
+      "scenario": "escalation_over_objection",
+      "friction_off": "escalate",
+      "friction_on": "escalate_alt",
+      "changed": true,
+      "severity_off": 0.6,
+      "severity_on": 0.4,
+      "interval": 9.3
+    },
+    {
+      "scenario": "escalation_over_objection~v520",
+      "friction_off": "escalate",
+      "friction_on": "escalate_alt",
+      "changed": true,
+      "severity_off": 0.6,
+      "severity_on": 0.4,
+      "interval": 9.3
+    },
+    {
+      "scenario": "escalation_over_objection~v521",
+      "friction_off": "escalate",
+      "friction_on": "escalate_alt",
+      "changed": true,
+      "severity_off": 0.6,
+      "severity_on": 0.4,
+      "interval": 9.3
+    },
+    {
+      "scenario": "escalation_over_objection~v522",
+      "friction_off": "escalate",
+      "friction_on": "escalate_alt",
+      "changed": true,
+      "severity_off": 0.6,
+      "severity_on": 0.4,
+      "interval": 9.3
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "n_episodes": 240,
+  "seed": 7,
+  "block": 40,
+  "blocks": [
+    {
+      "block": 0,
+      "true_severity": 0.49742499999999995,
+      "vuln_reported": 0.283065284762839,
+      "safe_reported": 0.2974,
+      "vuln_interval": 8.948106139818723,
+      "safe_interval": 9.026325,
+      "vuln_detection_rate": 0.8,
+      "safe_detection_rate": 0.875
+    },
+    {
+      "block": 1,
+      "true_severity": 0.50085,
+      "vuln_reported": 0.2630797588583963,
+      "safe_reported": 0.301125,
+      "vuln_interval": 8.811583444347665,
+      "safe_interval": 9.037875,
+      "vuln_detection_rate": 0.55,
+      "safe_detection_rate": 0.9
+    },
+    {
+      "block": 2,
+      "true_severity": 0.515325,
+      "vuln_reported": 0.24515848069414528,
+      "safe_reported": 0.317875,
+      "vuln_interval": 8.707756154024477,
+      "safe_interval": 9.095625,
+      "vuln_detection_rate": 0.35,
+      "safe_detection_rate": 0.775
+    },
+    {
+      "block": 3,
+      "true_severity": 0.522,
+      "vuln_reported": 0.22056458267433826,
+      "safe_reported": 0.319125,
+      "vuln_interval": 8.575009506688438,
+      "safe_interval": 9.1107,
+      "vuln_detection_rate": 0.375,
+      "safe_detection_rate": 0.85
+    },
+    {
+      "block": 4,
+      "true_severity": 0.5117,
+      "vuln_reported": 0.1847607092698599,
+      "safe_reported": 0.309825,
+      "vuln_interval": 8.404211214651095,
+      "safe_interval": 9.076425,
+      "vuln_detection_rate": 0.15,
+      "safe_detection_rate": 0.825
+    },
+    {
+      "block": 5,
+      "true_severity": 0.52605,
+      "vuln_reported": 0.1306838017719848,
+      "safe_reported": 0.32575,
+      "vuln_interval": 8.296074345773247,
+      "safe_interval": 9.128924999999999,
+      "vuln_detection_rate": 0.2,
+      "safe_detection_rate": 0.85
+    }
+  ],
+  "slopes": {
+    "vuln_reported": -0.029184527478276774,
+    "safe_reported": 0.0048314285714285725,
+    "true": 0.0052100000000000115,
+    "vuln_interval": -0.1318577801900893,
+    "vuln_detection": -0.11928571428571429,
+    "safe_detection": -0.007857142857142868
+  },
+  "report_gap_first": 0.21435971523716096,
+  "report_gap_last": 0.3953661982280152,
+  "firewalled_audit_gap": 0.000949999999999999
+}

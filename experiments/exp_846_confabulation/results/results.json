@@ -1,0 +1,8 @@
+{
+  "scenarios": 3,
+  "isolated_unsupported_rate": 0.0,
+  "full_access_unsupported_rate": 0.14166666666666666,
+  "baseline_unsupported_rate": 1.0,
+  "verifier_recall_on_injected": 1.0,
+  "injected_total": 9
+}
